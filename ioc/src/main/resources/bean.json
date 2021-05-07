@@ -1,0 +1,14 @@
+[
+  {
+    "name": "person",
+    "className": "entity.Person"
+  },
+  {
+    "name": "eyes",
+    "className": "entity.Eyes"
+  },
+  {
+    "name": "foot",
+    "className": "entity.Foot"
+  }
+]
